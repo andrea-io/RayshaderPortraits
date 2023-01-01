@@ -10,7 +10,7 @@ I am learning how to use the `rayshader` R package and will update this reposito
 ## **[Greece](https://github.com/andrea-io/RayShaders/tree/main/Greece)**
 
  ![Greece](Greece/final_plot_annotation_1x.png)
-###### Portrait created using data from Kontur's [Greece: Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-greece) Portrait annotations created on Figma.
+###### Portrait created using data from Kontur's [Greece: Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-greece). Portrait annotations created on Figma.
 
 ## **[Florida](https://github.com/andrea-io/RayShaders/tree/main/Florida)**
 
