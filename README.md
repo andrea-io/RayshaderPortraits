@@ -9,7 +9,12 @@ I am learning how to use the `rayshader` R package and will update this reposito
 
 Here is a list of the portraits I have created so far:
 
+## **[Greece](https://github.com/andrea-io/RayShaders/tree/main/Greece)**
+
+ ![Greece](Greece/final_plot_annotation_1x.png)
+###### Portrait created using data from Kontur's [Greece: Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-greece) Portrait annotations created on Figma.
+
 ## **[Florida](https://github.com/andrea-io/RayShaders/tree/main/Florida)**
 
- ![Florida](Florida/images/final_plot.png "Rayshader Portrait of Florida created using data from Kontur's United States of America: Population Density for 400m H3 Hexagons.")
-###### Rayshader Portrait of Florida created using data from Kontur's United States of America: Population Density for 400m H3 Hexagons Kontur.
+ ![Florida](Florida/images/final_plot.png)
+###### Portrait created using data from Kontur's [United States of America: Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-united-states-of-america).
