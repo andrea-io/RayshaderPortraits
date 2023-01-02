@@ -7,12 +7,17 @@ I am learning how to use the `rayshader` R package and will update this reposito
 
 ## Portrait Gallery
 
+## **[Brunei](https://github.com/andrea-io/RayShaders/tree/main/Brunei)**
+
+ ![Brunei](Brunei/brunei_annotation_final_plot.png)
+###### Portrait created (1-1-2023) using data from Kontur's [Brunei Darussalam: Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-brunei-darussalam). Portrait annotations created on Figma.
+
 ## **[Greece](https://github.com/andrea-io/RayShaders/tree/main/Greece)**
 
  ![Greece](Greece/final_plot_annotation_1x.png)
-###### Portrait created using data from Kontur's [Greece: Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-greece). Portrait annotations created on Figma.
+###### Portrait created (12-31-2022) using data from Kontur's [Greece: Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-greece). Portrait annotations created on Figma.
 
 ## **[Florida](https://github.com/andrea-io/RayShaders/tree/main/Florida)**
 
  ![Florida](Florida/images/final_plot.png)
-###### Portrait created using data from Kontur's [United States of America: Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-united-states-of-america).
+###### Portrait created (12-30-2022) using data from Kontur's [United States of America: Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-united-states-of-america).
