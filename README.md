@@ -7,6 +7,11 @@ I am learning how to use the `rayshader` R package and will update this reposito
 
 ## Portrait Gallery
 
+## **[Uzbekistan](https://github.com/andrea-io/RayShaders/tree/main/Uzbekistan)**
+
+ ![Uzbekistan](Uzbekistan/uzbekistan_final_plot_annotations.png)
+###### Portrait created (1-2-2023) using data from Kontur's [Uzbekistan: Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-uzbekistan). Portrait annotations created on Figma.
+
 ## **[Brunei](https://github.com/andrea-io/RayShaders/tree/main/Brunei)**
 
  ![Brunei](Brunei/brunei_annotation_final_plot.png)
