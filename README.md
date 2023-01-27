@@ -7,6 +7,11 @@ I am learning how to use the `rayshader` R package and will update this reposito
 
 ## Portrait Gallery
 
+## **[Japan](https://github.com/andrea-io/RayShaders/tree/main/Japan)**
+
+ ![Japan](Japan/images/final_plot_annotations.png)
+###### Portrait created (1-26-2023) using data from Kontur's [Japan: Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-japan). Portrait annotations created on Figma.
+
 ## **[Türkiye](https://github.com/andrea-io/RayShaders/tree/main/Türkiye)**
 
  ![Türkiye](Türkiye/Türkiye_final_plot_annotations.png)
