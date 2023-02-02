@@ -7,6 +7,11 @@ I am learning how to use the `rayshader` R package and will update this reposito
 
 ## Portrait Gallery
 
+## **[Black Sea Coast](https://github.com/andrea-io/RayShaders/tree/main/BlackSea)**
+
+ ![Black Sea Coast](BlackSea/images/final_plot_annotations.png)
+###### Portrait created (2-2-2023) using data from [Kontur's Global Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-dataset) dataset of bordering nations of the Black Sea. Portrait annotations created on Figma.
+
 ## **[Italy](https://github.com/andrea-io/RayShaders/tree/main/Italy)**
 
  ![Italy](Italy/images/final_plot_annotations.png)
