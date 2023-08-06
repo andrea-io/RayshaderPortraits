@@ -7,6 +7,12 @@ I am learning how to use the `rayshader` R package and will update this reposito
 
 ## Portrait Gallery
 
+## **[Indonesia](https://github.com/andrea-io/RayShaders/tree/main/Indonesia)**
+
+ ![Indonesia](Indonesia/final_plot_annotations.png)
+###### Portrait created (8-5-2023) using data from Kontur's [Indonesia: Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-indonesia). Portrait annotations created on Figma.
+
+
 ## **[Black Sea Coast](https://github.com/andrea-io/RayShaders/tree/main/BlackSea)**
 
  ![Black Sea Coast](BlackSea/images/final_plot_annotations.png)
